@@ -1,1 +1,1 @@
-## Decentralized Voting App using Block Chain and Etarium
+## Decentralized Voting App using Block Chain and Ethereum
